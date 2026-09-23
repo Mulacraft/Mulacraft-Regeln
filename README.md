@@ -65,9 +65,9 @@
 
 ## 6) Events
 ### Endevent
-6.4) Das Betreten des Ends ist bis zum Endevent verboten.
+6.1) Das Betreten des Ends ist bis zum Endevent verboten.
 
-6.5) Etwa eine Woche nach dem Serverstart gibt es ein gemeinsames Endevent.
+6.2) Etwa eine Woche nach dem Serverstart gibt es ein gemeinsames Endevent.
 
 ## 7) Gemeinschaftsprojekte
 ### Shoppingdistrikt
